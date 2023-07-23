@@ -1,0 +1,15 @@
+.statistics {
+  border: 1px solid gray;
+  box-shadow: 5px 5px 10px 0px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 5px 5px 10px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 5px 5px 10px 0px rgba(0, 0, 0, 0.75);
+}
+
+.statList {
+  font-size: 20px;
+  color: darkblue;
+}
+.value {
+  margin-left: 5px;
+  color: black;
+}
